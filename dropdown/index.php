@@ -10,7 +10,7 @@
 
 
 <body>
-<p style="margin-left: 177px;">Dependent Dropdown in Ajax Using Codeigniter by <a href="https://fb.com/eboominathan"><span>Boominathan</span></a> :)
+<p style="margin-left: 177px;">Dependent Dropdown in Ajax Using PHP by <a href="https://fb.com/eboominathan"><span>Boominathan</span></a> :)
 </div>
 
 
